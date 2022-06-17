@@ -1,0 +1,47 @@
+.main-dropdown-div {
+  width: 100%;
+  min-height: 500px;
+}
+.upper-content-div {
+  width: 100%;
+  min-height: 300px;
+
+  display: flex;
+  justify-content: right;
+}
+.lower-content-div {
+  width: 100%;
+  min-height: 200px;
+  background-color: blueviolet;
+}
+.big-button-div {
+  align-items: vertical;
+  min-height: 100px;
+  width: 200px;
+
+  display: block;
+  text-align: right;
+}
+
+.big-button-routes {
+  margin: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  font-size: 20px;
+  padding-top: -10px;
+}
+
+.button-text {
+  margin: 0;
+  padding-top: 10px;
+}
+.icon-div {
+  width: 60px;
+  height: 75px;
+
+  position: absolute;
+  left: 8px;
+  margin-top: 24px;
+  margin-left: 16px;
+}
